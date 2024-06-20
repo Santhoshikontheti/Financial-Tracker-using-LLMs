@@ -38,6 +38,21 @@ The result was a powerful tool that transformed how I managed my finances. Budge
     Extending benefit for Others - Develop it into a fully-fledged app.
 
 
+    
+![image](https://github.com/Santhoshikontheti/Financial-Tracker-using-LLMs/assets/156209218/838f350e-bf1a-4e65-9131-f88f44880975)
+
+![image](https://github.com/Santhoshikontheti/Financial-Tracker-using-LLMs/assets/156209218/1e214c77-306c-4c38-b45a-915d3e469730)
+
+![image](https://github.com/Santhoshikontheti/Financial-Tracker-using-LLMs/assets/156209218/f2099e92-ac4f-4c9e-9ed8-cd9182ed8353)
+
+![image](https://github.com/Santhoshikontheti/Financial-Tracker-using-LLMs/assets/156209218/14b23e27-109f-4f8a-ac5f-0fb23820bbaf)
+
+
+
+
+
+
+
 
 
 
