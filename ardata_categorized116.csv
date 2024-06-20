@@ -1,0 +1,118 @@
+Date,Name / Description,Amount (EUR),Transaction vs category,Transaction,Category
+2024-01-02,Income from Salary,1150.0,3. Income from Salary - Income,Income from Salary,Income
+2024-01-02,Dinner at Hindukus Restaurant,-40.8,2. Dinner at Hindukus Restaurant - Food & Beverages,Dinner at Hindukus Restaurant,Food and Drinks
+2024-01-02,Grocery shopping at Desi Grocery,-20.0,1. Grocery shopping at Desi Grocery - Grocery,Grocery shopping at Desi Grocery,Grocery
+2024-01-02,Grocery shopping at Lidl,-8.28,Grocery shopping at Lidl - Grocery,Grocery shopping at Lidl,Grocery
+2024-01-02,Grocery shopping at Supermarket Istanbul,-25.34,,,
+2024-01-04,Cash Withdrawal,-550.0,4. Cash Withdrawal - Financial Transaction,Cash Withdrawal,Financial Transaction
+2024-01-05,Grocery shopping at Lidl,-26.37,Grocery shopping at Lidl - Grocery,Grocery shopping at Lidl,Grocery
+2024-01-05,Personal Care Products Purchase,-24.5,5. Personal Care Products Purchase - Household Items,Personal Care Products Purchase,Household Items
+2024-01-08,Utility Bill Payment,-54.0,6. Utility Bill Payment - Bills and Subscriptions,Utility Bill Payment,Bills and Subscriptions
+2024-01-08,Miscellaneous Expense,-4.1,7. Miscellaneous Expense - Other expenses,Miscellaneous Expense,Other expenses
+2024-01-08,Miscellaneous Expense,-11.5,7. Miscellaneous Expense - Other expenses,Miscellaneous Expense,Other expenses
+2024-01-08,Grocery shopping at Lidl,-7.02,Grocery shopping at Lidl - Grocery,Grocery shopping at Lidl,Grocery
+2024-01-08,Grocery shopping at Desi Grocery,-4.8,1. Grocery shopping at Desi Grocery - Grocery,Grocery shopping at Desi Grocery,Grocery
+2024-01-02,Grocery shopping at Supermarket Istanbul,-17.24,,,
+2024-01-02,Income from Salary,1150.0,3. Income from Salary - Income,Income from Salary,Income
+2024-01-02,Utility Bill Payment,-37.47,6. Utility Bill Payment - Bills and Subscriptions,Utility Bill Payment,Bills and Subscriptions
+2024-01-02,Cash Withdrawal,-50.0,4. Cash Withdrawal - Financial Transaction,Cash Withdrawal,Financial Transaction
+2024-01-02,DB payment,-49.0,8. DB payment - Bank Fees,DB payment,Bank Fees
+2024-01-02,Miscellaneous Expense,-3.8,7. Miscellaneous Expense - Other expenses,Miscellaneous Expense,Other expenses
+2024-01-02,Cash Withdrawal,-150.0,4. Cash Withdrawal - Financial Transaction,Cash Withdrawal,Financial Transaction
+2024-01-02,Miscellaneous Expense,-4.0,7. Miscellaneous Expense - Other expenses,Miscellaneous Expense,Other expenses
+2024-01-02,Personal Care Products Purchase,-16.78,5. Personal Care Products Purchase - Household Items,Personal Care Products Purchase,Household Items
+2024-01-02,Personal Care Products Purchase,-8.4,5. Personal Care Products Purchase - Household Items,Personal Care Products Purchase,Household Items
+2024-01-02,Grocery shopping at Lidl,57.56,Grocery shopping at Lidl - Grocery,Grocery shopping at Lidl,Grocery
+2024-01-31,Income from Salary,1150.0,3. Income from Salary - Income,Income from Salary,Income
+2024-02-01,Fee for Service,-11.51,9. Fee for Service - Services,Fee for Service,Services
+2024-02-01,Gym Membership Fee,-24.9,10. Gym Membership Fee - Health & Wellness,Gym Membership Fee,Health and Wellness
+2024-02-01,Insurance Premium Payment,-107.4,11. Insurance Premium Payment - Insurance,Insurance Premium Payment,Insurance
+2024-02-02,DB payment,-49.0,8. DB payment - Bank Fees,DB payment,Bank Fees
+2024-02-02,Utility Bill Payment,-39.65,6. Utility Bill Payment - Bills and Subscriptions,Utility Bill Payment,Bills and Subscriptions
+2024-02-02,Grocery shopping at Paryan Lebensmittel,-13.5,12. Grocery shopping at Paryan Lebensmittel - Grocery,Grocery shopping at Paryan Lebensmittel,Grocery
+2024-02-05,Grocery shopping at Orient Asia Supermarket,-8.0,,,
+2024-02-05,Cash Withdrawal,-50.0,4. Cash Withdrawal - Financial Transaction,Cash Withdrawal,Financial Transaction
+2024-02-05,Cash Withdrawal,-650.0,4. Cash Withdrawal - Financial Transaction,Cash Withdrawal,Financial Transaction
+2024-02-05,Dinner at Palmen Grill,-17.99,13. Dinner at Palmen Grill - Food & Beverages,Dinner at Palmen Grill,Food and Drinks
+2024-02-05,Uncategorised Transaction,-5.4,14. Uncategorised Transaction - Other expenses,Uncategorised Transaction,Other expenses
+2024-02-06,Personal Care Products Purchase,-7.72,5. Personal Care Products Purchase - Household Items,Personal Care Products Purchase,Household Items
+2024-02-06,Personal Care Products Purchase,-11.16,5. Personal Care Products Purchase - Household Items,Personal Care Products Purchase,Household Items
+2024-02-07,Utility Bill Payment,-54.0,6. Utility Bill Payment - Bills and Subscriptions,Utility Bill Payment,Bills and Subscriptions
+2024-02-09,Grocery shopping at Lidl,-25.32,Grocery shopping at Lidl - Grocery,Grocery shopping at Lidl,Grocery
+2024-02-12,Grocery shopping at Haffez Bazar,-17.0,15. Grocery shopping at Haffez Bazar - Grocery,Grocery shopping at Haffez Bazar,Grocery
+2024-02-12,Dinner at Sara-H Restaurant,-20.5,,,
+2024-02-13,Cash Withdrawal,-50.0,4. Cash Withdrawal - Financial Transaction,Cash Withdrawal,Financial Transaction
+2024-02-14,Personal Care Products Purchase,-18.1,5. Personal Care Products Purchase - Household Items,Personal Care Products Purchase,Household Items
+2024-01-02,Clothing shopping at Mode Paris,-30.0,16. Clothing shopping at Mode Paris - Apparel and Accessories,Clothing shopping at Mode Paris,Apparel and Accessories
+2024-01-02,Miscellaneous Expense,-0.55,7. Miscellaneous Expense - Other expenses,Miscellaneous Expense,Other expenses
+2024-01-02,Miscellaneous Expense,-6.4,7. Miscellaneous Expense - Other expenses,Miscellaneous Expense,Other expenses
+2024-01-02,Fees for Bank Account,-8.0,17. Fees for Bank Account - Financial Transactions,Fees for Bank Account,Financial Transactions
+2024-02-29,Income from Salary,1150.0,3. Income from Salary - Income,Income from Salary,Income
+2024-03-01,Fee for Service,-10.51,9. Fee for Service - Services,Fee for Service,Services
+2024-03-01,Gym Membership Fee,-39.9,10. Gym Membership Fee - Health & Wellness,Gym Membership Fee,Health and Wellness
+2024-03-01,Income from Cashback,45.0,18. Income from Cashback - Income,Income from Cashback,Income
+2024-03-04,Cash Withdrawal,-550.0,4. Cash Withdrawal - Financial Transaction,Cash Withdrawal,Financial Transaction
+2024-03-04,Grocery shopping at Lidl,-40.8,Grocery shopping at Lidl - Grocery,Grocery shopping at Lidl,Grocery
+2024-03-04,Grocery shopping at Lidl,-4.29,Grocery shopping at Lidl - Grocery,Grocery shopping at Lidl,Grocery
+2024-03-04,Personal Care Products Purchase,-12.9,5. Personal Care Products Purchase - Household Items,Personal Care Products Purchase,Household Items
+2024-03-04,Grocery shopping at Desi Grocery,-8.6,1. Grocery shopping at Desi Grocery - Grocery,Grocery shopping at Desi Grocery,Grocery
+2024-03-04,Clothing shopping at SHEIN.COM,-42.75,19. Clothing shopping at SHEIN.COM - Apparel and Accessories,Clothing shopping at SHEIN.COM,Apparel and Accessories
+2024-03-04,Clothing shopping at SHEIN.COM,-158.27,19. Clothing shopping at SHEIN.COM - Apparel and Accessories,Clothing shopping at SHEIN.COM,Apparel and Accessories
+2024-03-05,Payment at Lidl,-1.5,20. Payment at Lidl - Grocery,Payment at Lidl,Grocery
+2024-01-02,Income from Salary,1150.0,3. Income from Salary - Income,Income from Salary,Income
+2024-01-02,Utility Bill Payment,-37.62,6. Utility Bill Payment - Bills and Subscriptions,Utility Bill Payment,Bills and Subscriptions
+2024-03-07,Utility Bill Payment,-54.0,6. Utility Bill Payment - Bills and Subscriptions,Utility Bill Payment,Bills and Subscriptions
+2024-03-07,Clothing shopping at SHEIN.COM,-10.32,19. Clothing shopping at SHEIN.COM - Apparel and Accessories,Clothing shopping at SHEIN.COM,Apparel and Accessories
+2024-03-08,DB payment,-49.0,8. DB payment - Bank Fees,DB payment,Bank Fees
+2024-03-08,Personal Care Products Purchase,-3.6,5. Personal Care Products Purchase - Household Items,Personal Care Products Purchase,Household Items
+2024-03-08,Grocery shopping at Lidl,-14.48,Grocery shopping at Lidl - Grocery,Grocery shopping at Lidl,Grocery
+2024-03-11,Grocery shopping at Desi Grocery,-11.6,1. Grocery shopping at Desi Grocery - Grocery,Grocery shopping at Desi Grocery,Grocery
+2024-03-14,Grocery shopping at Supermarket Istanbul,-11.74,,,
+2024-03-18,Dinner at Sara-H Restaurant,-47.0,,,
+2024-03-20,Grocery shopping at Lidl,-8.24,Grocery shopping at Lidl - Grocery,Grocery shopping at Lidl,Grocery
+2024-03-20,Personal Care Products Purchase,-16.95,5. Personal Care Products Purchase - Household Items,Personal Care Products Purchase,Household Items
+2024-03-28,Income from Salary,1150.0,3. Income from Salary - Income,Income from Salary,Income
+2024-04-02,Fee for Service,-10.32,9. Fee for Service - Services,Fee for Service,Services
+2024-04-02,Payment for Services,-0.86,,,
+2024-04-02,Statement,-0.86,21. Statement - Other expenses,Statement,Other expenses
+2024-04-02,Statement,-0.86,21. Statement - Other expenses,Statement,Other expenses
+2024-04-02,Credit Transfer,75.0,22. Credit Transfer - Financial Transactions,Credit Transfer,Financial Transactions
+2024-04-02,RSG Group GmbH M--- M- McFIT: Summer,-24.9,23. RSG Group GmbH M--- M- McFIT: Summer - Income/Expense (depending on context),RSG Group GmbH M--- M- McFIT: Summer,Income/Expense (depending on context)
+2020-04-02,RESTAURANT NIGIN,-71.5,24. RESTAURANT NIGIN - Food & Beverages,RESTAURANT NIGIN,Food and Drinks
+2020-04-02,Cash Withdrawal,-550.0,4. Cash Withdrawal - Financial Transaction,Cash Withdrawal,Financial Transaction
+2020-04-08,DB Sales Company Subscription to,-49.0,,,
+2024-04-08,Telefonica Germany GmbH + Co,-37.92,,,
+2024-04-08,Telefonica Germany GmbH + Co,-54.0,,,
+2024-04-09,LIDL SAYS THANK YOU,-5.37,,,
+2020-04-09,SUPERMARKET ISTANBUL,-14.65,,,
+2020-04-10,Cash Withdrawal. Debit Card.,-60.0,,,
+2020-04-15,Cash Withdrawal. Debit Card.,-50.0,,,
+2020-04-16,HAGEBAU MUNICH-NORTH THANKS,-17.98,,,
+2020-04-16,DM MOVIE,-25.35,,,
+2024-04-22,Account Balance on,-134.54,,,
+2024-04-22,DM MOVIE.,-8.05,,,
+2020-04-22,SUPERMARKET ISTANBUL,-11.97,,,
+2020-04-25,DM MOVIE,-16.85,,,
+2020-04-26,SumUp .Desi Grocery,-18.7,,,
+2024-01-02,SUPERMARKET ISTANBUL,-12.46,,,
+2024-01-02,eCommerce-shein.com shopping,-29.49,,,
+2020-04-30,Credit Transfer,1150.0,22. Credit Transfer - Financial Transactions,Credit Transfer,Financial Transactions
+2020-04-30,LIDL SAYS THANK YOU,-11.68,,,
+2020-04-30,DM MOVIE.,-15.25,,,
+2020-05-02,Fee Statement,-11.3,Fee Statement - Miscellaneous ,Fee Statement,Miscellaneous 
+2020-05-02,RSG Group GmbH M--- M- McFIT,-24.9,,,
+2020-05-02,Citizen Bonus,75.0,,,
+2020-05-03,DM MOVIE.,-4.45,,,
+2020-05-03,Takko Fashion,-32.97,,,
+2020-05-06,Cash Withdrawal. Debit Card. GA,-650.0,,,
+2020-05-06,DB Sales Company Subscription,-49.0,DB Sales Company Subscription - Services/Subscriptions,DB Sales Company Subscription,Services
+2020-05-07,SUPERMARKET ISTANBUL,-21.93,,,
+2020-05-08,Telefonica Germany GmbH + Co.,-54.0,,,
+2020-05-08,Telefonica Germany GmbH + Co.,-37.7,,,
+2020-05-10,LIDL SAYS THANK YOU,-30.69,,,
+2020-05-15,RESTAURANT NIGIN,-9.9,24. RESTAURANT NIGIN - Food & Beverages,RESTAURANT NIGIN,Food and Drinks
+2024-05-21,SUPERMARKET ISTANBUL,-18.1,,,
+2024-05-21,DM MOVIE,-21.9,,,
+2024-05-22,Cash Withdrawal. Debit Card,-100.0,,,
+2024-05-22,Cash Deposit SB SB-DEPOSIT HARRAS,870.0,,,
+2024-05-22,WBS CODING SCHOOL,-588.0,,,
